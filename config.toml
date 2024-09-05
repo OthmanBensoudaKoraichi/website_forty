@@ -1,0 +1,111 @@
+# Site settings
+baseURL = "https://ismailbensouda.netlify.app/"
+languageCode = "en-us"
+title = "ismailbensouda"
+theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Enter your disqus shortname to enable comments
+[services]
+  [services.disqus]
+    shortname = "ismail"
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "Your name"
+  description = "Your description"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # Button Style 1
+    [[params.navigation.button1]]
+      name = "Home"
+      url = ""
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Ismail Bensouda Koraichi"
+    subtitle = "Harnessing Data & AI to drive innovation"
+    buttonText = "Get Started"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+    
+
+    [[params.tiles.showcase]]
+      title = "GDA's vision"      
+      subtitle = "First Newspaper appearance on Challenge.ma"
+      image = "gda.png"
+      url = "https://archive.challenge.ma/ismail-bensouda-fondateur-de-gda-il-est-temps-que-la-data-science-simpose-au-maroc-dans-toutes-les-grandes-entreprises-129970/?fbclid=IwZXh0bgNhZW0CMTEAAR3eK8gZRblMkkcGoyo-BeAwVSbDajTCW7CDMSo2s6mMeDH1HxB843Sv3L4_aem_If0YCM6IVMhENoASlsuxrA"
+
+    [[params.tiles.showcase]]
+      title = "Mohammedia School of Engineers (EMI) Business Forum"
+      subtitle = "Pitch to Dr.Leila Benali, Minister of Energy Transition in Morocco"
+      image = "210 pitch benali.jpg"
+      url = "https://www.linkedin.com/posts/artefact-global_artefact-data-artefactafrica-ugcPost-7194001734816477185-YONM?utm_source=share&utm_medium=member_desktop"
+
+
+    [[params.tiles.showcase]]
+      title = "GenAI conference at Gitex Africa 2024"
+      subtitle = "I gave a conference on Generative AI at the Artefact booth in the Microsoft stand"
+      image = "103 ismail speaker.jpg"
+      url = "https://www.linkedin.com/posts/ghita-ammor-38770890_gitex-africa-data-activity-7202347176394375168-OwhV?utm_source=share&utm_medium=member_desktop"
+
+    [[params.tiles.showcase]]
+      title = "Forum : Horizons Maroc 2024"
+      subtitle = "I represented Artefact at FHM Paris to hire top talents"
+      image = "chancla.jpg"
+      url = "https://www.linkedin.com/posts/artefact-global_paris-data-ia-ugcPost-7201244490370555904-Dzuq?utm_source=share&utm_medium=member_desktop"
+
+    [[params.tiles.showcase]]
+      title = "Gitex Africa conference"
+      subtitle = "Gitex conference announcement"
+      image = "gitex2.png"
+      url = "https://www.linkedin.com/posts/ismail-bensouda_gitexafrica-dataai-microsoftpartner-activity-7197172460281024514-pGRp?utm_source=share&utm_medium=member_desktop"
+
+    [[params.tiles.showcase]]
+      title = "Artefact x Microsoft - GenAI Conference"
+      subtitle = "I co-organized one of the biggest GenAI private conferences in Morocco"
+      image = "genai.png"
+      url = "blogs/ipsum"
+    # You can make more showcases by copy and pasting the code above
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
