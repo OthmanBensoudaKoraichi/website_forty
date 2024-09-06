@@ -2,12 +2,12 @@
 <section id="banner" class="major">
     <div class="inner">
         <header class="major">
-            <h1>{{ .Site.Params.Banner.title }}</h1>
+            <h1>{{ .Site.Params.banner.title }}</h1>
         </header>
         <div class="content">
-            <p>{{ .Site.Params.Banner.subtitle }}</p>
+            <p>{{ .Site.Params.banner.subtitle }}</p>
             <ul class="icons">
-                {{ range .Site.Params.Banner.social }}
+                {{ range .Site.Params.banner.social }}
                     <li><a href="{{ .url | safeHTML }}" class="icon alt {{ .icon }}" target="_blank"><span class="label">{{ .label }}</span></a></li>
                 {{ end }}
             </ul>
