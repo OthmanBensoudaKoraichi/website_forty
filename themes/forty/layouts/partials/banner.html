@@ -2,17 +2,24 @@
 <section id="banner" class="major">
     <div class="inner">
         <header class="major">
-            <h1>{{ .Site.Params.banner.title }}</h1>
+            <h1>{{ .Site.Params.banner.title }}
+                <span class="social-icons">
+                    <a href="https://github.com/yourusername" target="_blank">
+                        <img src="/img/github.png" alt="GitHub" width="24" height="24">
+                    </a>
+                    <a href="https://linkedin.com/in/yourusername" target="_blank">
+                        <img src="/img/linkedin.png" alt="LinkedIn" width="24" height="24">
+                    </a>
+                    <a href="mailto:youremail@example.com">
+                        <img src="/img/email.png" alt="Email" width="24" height="24">
+                    </a>
+                </span>
+            </h1>
         </header>
         <div class="content">
             <p>{{ .Site.Params.banner.subtitle }}</p>
-            <ul class="icons">
-                {{ range .Site.Params.banner.social }}
-                    <li><a href="{{ .url | safeHTML }}" class="icon alt {{ .icon }}" target="_blank"><span class="label">{{ .label }}</span></a></li>
-                {{ end }}
-            </ul>
             <ul class="actions">
-                <li><a href="#one" class="button next scrolly">{{ .Site.Params.Banner.buttonText }}</a></li>
+                <li><a href="#one" class="button next scrolly">{{ .Site.Params.banner.buttonText }}</a></li>
             </ul>
         </div>
     </div>

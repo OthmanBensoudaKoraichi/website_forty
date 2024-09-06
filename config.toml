@@ -60,17 +60,14 @@ googleAnalytics = ""
 
   [[params.banner.social]]
   label = "GitHub"
-  icon = "fa fa-github"
   url = "https://github.com/yourusername"
   
   [[params.banner.social]]
   label = "LinkedIn"
-  icon = "fa fa-linkedin"
   url = "https://www.linkedin.com/in/yourprofile"
   
   [[params.banner.social]]
   label = "Email"
-  icon = "fa fa-envelope"
   url = "mailto:youremail@example.com"
 
 
