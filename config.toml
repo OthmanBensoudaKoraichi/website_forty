@@ -53,7 +53,7 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Othman Bensouda"
+    title = "Othman Bensouda Koraichi"
     subtitle = "Harnessing Data & AI to drive innovation"
     buttonText = "Get Started"
 
