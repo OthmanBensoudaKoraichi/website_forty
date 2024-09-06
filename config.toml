@@ -7,12 +7,10 @@ theme = "forty"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
-# Enter your disqus shortname to enable comments
-[services]
-  [services.disqus]
-    shortname = "othman"
 
 [params]
+
+
   # You can use Markdown syntax for urls [text](//url.to/source)
   # To create multi-line text in strings use the """example Text""" format
   #
@@ -31,6 +29,7 @@ googleAnalytics = ""
 
   # Just a custom image variable, please define it in .md files for content.
   image = ""
+  
 
   # 404 error customization
   [params.error404]
@@ -49,6 +48,7 @@ googleAnalytics = ""
       name = "Home"
       url = ""
 
+      
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
@@ -65,39 +65,89 @@ googleAnalytics = ""
     
 
     [[params.tiles.showcase]]
-      title = "GDA's vision"      
-      subtitle = "First Newspaper appearance on Challenge.ma"
-      image = "gda.png"
-      url = ""
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = "blogs/dropout"
+
     [[params.tiles.showcase]]
-      title = "Mohammedia School of Engineers (EMI) Business Forum"
-      subtitle = "Pitch to Dr.Leila Benali, Minister of Energy Transition in Morocco"
-      image = "210 pitch benali.jpg"
-      url = "https://www.linkedin.com/posts/artefact-global_artefact-data-artefactafrica-ugcPost-7194001734816477185-YONM?utm_source=share&utm_medium=member_desktop"
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
+
+    [[params.tiles.showcase]]
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
 
 
     [[params.tiles.showcase]]
-      title = "GenAI conference at Gitex Africa 2024"
-      subtitle = "I gave a conference on Generative AI at the Artefact booth in the Microsoft stand"
-      image = ""
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
       url = ""
-    [[params.tiles.showcase]]
-      title = "Forum : Horizons Maroc 2024"
-      subtitle = "I represented Artefact at FHM Paris to hire top talents"
-      image = "chancla.jpg"
-      url = "https://www.linkedin.com/posts/artefact-global_paris-data-ia-ugcPost-7201244490370555904-Dzuq?utm_source=share&utm_medium=member_desktop"
+
 
     [[params.tiles.showcase]]
-      title = "Gitex Africa conference"
-      subtitle = "Gitex conference announcement"
-      image = "gitex2.png"
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
       url = ""
+
+
     [[params.tiles.showcase]]
-      title = "Artefact x Microsoft - GenAI Conference"
-      subtitle = "I co-organized one of the biggest GenAI private conferences in Morocco"
-      image = "genai.png"
-      url = "blogs/ipsum"
-    # You can make more showcases by copy and pasting the code above
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
+
+
+    [[params.tiles.showcase]]
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
+
+
+    [[params.tiles.showcase]]
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
+
+
+    [[params.tiles.showcase]]
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
+
+
+    [[params.tiles.showcase]]
+      title = "Rescuing At-Risk Students in Morocco"      
+      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
+      image = "moroccan_kids.png"
+      url = ""
+
+[params.header]
+  [[params.header.social]]
+    icon = "fab fa-github"  # FontAwesome class for GitHub icon
+    url = "https://github.com/your-github-username"
+    label = "GitHub"
+
+  [[params.header.social]]
+    icon = "fab fa-linkedin"  # FontAwesome class for LinkedIn icon
+    url = "https://linkedin.com/in/your-linkedin-username"
+    label = "LinkedIn"
+
+
+  [[params.header.social]]
+    icon = "fas fa-envelope"  # FontAwesome class for Email icon
+    url = "mailto:your-email@example.com"
+    label = "Email"
+      
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs

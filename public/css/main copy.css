@@ -1,0 +1,15 @@
+/* CSS for the banner social icons */
+.banner-icons {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.banner-icons a {
+    color: #fff; /* Ensure the icon color matches the banner text color */
+    margin-right: 8px; /* Adjust spacing between icons */
+    font-size: 0.8em; /* Adjust the icon size */
+}
+
+.banner-icons a:hover {
+    color: #ff5733; /* Optional: Change color on hover */
+}

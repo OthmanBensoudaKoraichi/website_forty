@@ -30,11 +30,11 @@
       <description></description>
     </item>
     <item>
-      <title>Ipsum</title>
-      <link>http://localhost:1313/blogs/ipsum/</link>
+      <title>Dropout</title>
+      <link>http://localhost:1313/blogs/dropout/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/ipsum/</guid>
-      <description>&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blogs/dropout/</guid>
+      <description>&lt;h1 id=&#34;click-below-for-a-link-to-the-github-repo&#34;&gt;&lt;strong&gt;Click below for a link to the GitHub repo:&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
