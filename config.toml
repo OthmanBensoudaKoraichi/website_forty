@@ -58,6 +58,22 @@ googleAnalytics = ""
     buttonText = "Get Started"
 
 
+  [[params.banner.social]]
+  label = "GitHub"
+  icon = "fab fa-github"  # Assuming you're using Font Awesome icons
+  url = "https://github.com/yourusername"
+
+  [[params.banner.social]]
+  label = "LinkedIn"
+  icon = "fab fa-linkedin"  # Font Awesome LinkedIn icon
+  url = "https://www.linkedin.com/in/yourprofile"
+
+  [[params.banner.social]]
+  label = "Email"
+  icon = "fas fa-envelope"  # Font Awesome email icon
+  url = "mailto:youremail@example.com"
+
+
   # Tiles Section
   [params.tiles]
     enable = true
@@ -71,9 +87,9 @@ googleAnalytics = ""
       url = "blogs/dropout"
 
     [[params.tiles.showcase]]
-      title = "Rescuing At-Risk Students in Morocco"      
-      subtitle = "Implementing a Dropout Early Warning System with Machine Learning"
-      image = "moroccan_kids.png"
+      title = "Automated Essay Grading Using Transformer Models"      
+      subtitle = "Leveraging state-of-the-art transformer models to assess essay quality"
+      image = "ML.jpg"
       url = ""
 
     [[params.tiles.showcase]]

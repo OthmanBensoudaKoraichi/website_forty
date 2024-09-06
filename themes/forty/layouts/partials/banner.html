@@ -5,15 +5,12 @@
             <h1>{{ .Site.Params.Banner.title }}</h1>
         </header>
         <div class="content">
-            <p>
-                {{ .Site.Params.Banner.subtitle }}
-                <!-- Add social icons next to the subtitle -->
-                {{ range .Site.Params.header.social }}
-                    <a href="{{ .url | safeHTML }}" class="icon alt {{ .icon }}" target="_blank">
-                        <span class="label">{{ .label }}</span>
-                    </a>
+            <p>{{ .Site.Params.Banner.subtitle }}</p>
+            <ul class="icons">
+                {{ range .Site.Params.Banner.social }}
+                    <li><a href="{{ .url | safeHTML }}" class="icon alt {{ .icon }}" target="_blank"><span class="label">{{ .label }}</span></a></li>
                 {{ end }}
-            </p>
+            </ul>
             <ul class="actions">
                 <li><a href="#one" class="button next scrolly">{{ .Site.Params.Banner.buttonText }}</a></li>
             </ul>
