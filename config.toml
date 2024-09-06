@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://ismailbensouda.netlify.app/"
+baseURL = "https://othmanbensouda.netlify.app/"
 languageCode = "en-us"
-title = "ismailbensouda"
+title = "othmanbensouda"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -10,7 +10,7 @@ googleAnalytics = ""
 # Enter your disqus shortname to enable comments
 [services]
   [services.disqus]
-    shortname = "ismail"
+    shortname = "othman"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -53,7 +53,7 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Ismail Bensouda Koraichi"
+    title = "Othman Bensouda Koraichi"
     subtitle = "Harnessing Data & AI to drive innovation"
     buttonText = "Get Started"
 
@@ -68,8 +68,7 @@ googleAnalytics = ""
       title = "GDA's vision"      
       subtitle = "First Newspaper appearance on Challenge.ma"
       image = "gda.png"
-      url = "https://archive.challenge.ma/ismail-bensouda-fondateur-de-gda-il-est-temps-que-la-data-science-simpose-au-maroc-dans-toutes-les-grandes-entreprises-129970/?fbclid=IwZXh0bgNhZW0CMTEAAR3eK8gZRblMkkcGoyo-BeAwVSbDajTCW7CDMSo2s6mMeDH1HxB843Sv3L4_aem_If0YCM6IVMhENoASlsuxrA"
-
+      url = ""
     [[params.tiles.showcase]]
       title = "Mohammedia School of Engineers (EMI) Business Forum"
       subtitle = "Pitch to Dr.Leila Benali, Minister of Energy Transition in Morocco"
@@ -80,9 +79,8 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "GenAI conference at Gitex Africa 2024"
       subtitle = "I gave a conference on Generative AI at the Artefact booth in the Microsoft stand"
-      image = "103 ismail speaker.jpg"
-      url = "https://www.linkedin.com/posts/ghita-ammor-38770890_gitex-africa-data-activity-7202347176394375168-OwhV?utm_source=share&utm_medium=member_desktop"
-
+      image = ""
+      url = ""
     [[params.tiles.showcase]]
       title = "Forum : Horizons Maroc 2024"
       subtitle = "I represented Artefact at FHM Paris to hire top talents"
@@ -93,8 +91,7 @@ googleAnalytics = ""
       title = "Gitex Africa conference"
       subtitle = "Gitex conference announcement"
       image = "gitex2.png"
-      url = "https://www.linkedin.com/posts/ismail-bensouda_gitexafrica-dataai-microsoftpartner-activity-7197172460281024514-pGRp?utm_source=share&utm_medium=member_desktop"
-
+      url = ""
     [[params.tiles.showcase]]
       title = "Artefact x Microsoft - GenAI Conference"
       subtitle = "I co-organized one of the biggest GenAI private conferences in Morocco"
