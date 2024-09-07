@@ -54,7 +54,7 @@ googleAnalytics = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Othman Bensouda"
-    subtitle = "Harnessing Data & AI to drive innovation"
+    subtitle = "Harnessing Data & AI to drive Innovation in Education"
     buttonText = "Get Started"
 
 
@@ -87,7 +87,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Automated Essay Grading Using Transformer Models"      
       subtitle = "Leveraging state-of-the-art transformer models to assess essay quality"
-      image = "ML.jpg"
+      image = "transformers.jpg"
       url = ""
 
     [[params.tiles.showcase]]
