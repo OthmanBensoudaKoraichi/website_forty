@@ -99,26 +99,26 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Investigating the Impact of Variables on Deep Knowledge Tracing"      
       subtitle = "Improving Student Knowledge Prediction with Additional Features"
-      image = "blogs/dkt"
-      url = ""
+      image = "dkt.jpg"
+      url = "blogs/dkt"
       
       [[params.tiles.showcase]]
       title = "AgeCap: Instant Health Insurance Quote Generator"      
       subtitle = "Instant Health Insurance Quotes with AI Chatbot (RAG) and Automated Emails"
       image = "agescreen.png"
-      url = "https://agecap.streamlit.app/"
+      url = "blogs/agecap"
       
       [[params.tiles.showcase]]
       title = "Opticash: Optimized Cash Transfer with Linear Programming"      
       subtitle = "Maximizing Cash Efficiency through Automated Optimization"
       image = "trucks.jpeg"
-      url = "./projects/atf/opticash.pdf"
+      url = "blogs/opticash"
 
       [[params.tiles.showcase]]
       title = "Spotify Analysis: Trends and Insights"      
       subtitle = "Leveraging Data to Understand Listener Behavior"
       image = "spotify.png"
-      url = "./projects/CS145/spotify.pdf"
+      url = "blogs/spotify"
       
 
       [[params.tiles.showcase]]
@@ -131,7 +131,7 @@ googleAnalytics = ""
       title = "London House Price Estimation Engine"      
       subtitle = "Optimizing Investment Decisions with Machine Learning"
       image = "housepricing.png"
-      url = "./projects/ds4b/capstoneds4b.html"
+      url = "blogs/housepricing"
 
       [[params.tiles.showcase]]
       title = "Advanced Chatbot Development"      

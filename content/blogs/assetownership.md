@@ -1,8 +1,8 @@
 ---
-title: "Aliquam"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "aliquam"
-image: pic07.jpg
+title: "Predicting Asset Ownership in Africa Using Satellite Imagery"
+description: ""
+slug: "assetownership"
+image: landscape_africa.jpeg
 keywords: ""
 categories: 
     - ""
@@ -10,3 +10,14 @@ categories:
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
+
+# **Description**
+
+# **Poster presentation**
+
+[![Poster Image](/img/blogs/poster.png)](../projects/CS229/CS229_Poster.pdf)
+
+
+# **Github Repo**
+
+[![GitHub Image](/img/blogs/github.png)](https://github.com/OthmanBensoudaKoraichi/asset_ownership)

@@ -1,12 +1,23 @@
 ---
-title: "Tempus"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "tempus"
-image: pic08.jpg
+title: "OilX : Refinery Event Monitoring System"
+description: ""
+slug: "oilx"
+image: oilx_earth.jpg
 keywords: ""
 categories: 
     - ""
     - ""
-date: 2017-10-31T22:26:13-05:00
+date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
+
+# **Description**
+
+# **Project report**
+
+[![Report Image](/img/blogs/report.jpeg)](../projects/london_lab/oilx.pdf)
+
+
+# **Github Repo**
+
+[![GitHub Image](/img/blogs/github.png)](https://github.com/OthmanBensoudaKoraichi/london_lab)

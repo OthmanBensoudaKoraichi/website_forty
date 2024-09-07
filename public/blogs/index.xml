@@ -9,11 +9,18 @@
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aliquam</title>
-      <link>http://localhost:1313/blogs/aliquam/</link>
+      <title>OilX : Refinery Event Monitoring System</title>
+      <link>http://localhost:1313/blogs/oilx/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/aliquam/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blogs/oilx/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;project-report&#34;&gt;&lt;strong&gt;Project report&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/london_lab/oilx.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/report.jpeg&#34; alt=&#34;Report Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/london_lab&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting Asset Ownership in Africa Using Satellite Imagery</title>
+      <link>http://localhost:1313/blogs/assetownership/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/assetownership/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poster-presentation&#34;&gt;&lt;strong&gt;Poster presentation&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/CS229/CS229_Poster.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/poster.png&#34; alt=&#34;Poster Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/asset_ownership&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lifestyle</title>
@@ -51,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Tempus</title>
-      <link>http://localhost:1313/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Magna</title>
       <link>http://localhost:1313/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
@@ -65,18 +65,18 @@
       <description></description>
     </item>
     <item>
+      <title>Automated Essay Grading Using Transformer Models</title>
+      <link>http://localhost:1313/blogs/essaygrading/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/essaygrading/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;scientific-paper&#34;&gt;&lt;strong&gt;Scientific paper&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/CS224U/CS224u_final_papers__Elenoth_.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/paper.png&#34; alt=&#34;Paper Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Rescuing At-Risk Students in Morocco : Dropout Early Warning System with Machine Learning</title>
       <link>http://localhost:1313/blogs/dropout/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       <guid>http://localhost:1313/blogs/dropout/</guid>
-      <description>&lt;h1 id=&#34;poster-presentation-video&#34;&gt;&lt;strong&gt;Poster presentation video&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Hc_LG9Klt4&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/1Hc_LG9Klt4/0.jpg&#34; alt=&#34;YouTube Video&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rescuing At-Risk Students in Morocco : Dropout Early Warning System with Machine Learning</title>
-      <link>http://localhost:1313/blogs/essaygrading/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/essaygrading/</guid>
-      <description>&lt;h1 id=&#34;scientific-paper&#34;&gt;&lt;strong&gt;Scientific paper&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/CS224U/CS224u_final_papers__Elenoth_.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/paper.png&#34; alt=&#34;Paper Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poster-presentation-video&#34;&gt;&lt;strong&gt;Poster presentation video&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Hc_LG9Klt4&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/1Hc_LG9Klt4/0.jpg&#34; alt=&#34;YouTube Video&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
