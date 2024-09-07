@@ -120,11 +120,6 @@ googleAnalytics = ""
       image = "spotify.png"
       url = ""
       
-      [[params.tiles.showcase]]
-      title = "Advanced Chatbot Development"      
-      subtitle = "Automating Conversations with NLP and Machine Learning"
-      image = "chatbot.png"
-      url = ""
 
       [[params.tiles.showcase]]
       title = "OilX : Refinery Event Monitoring System"      
@@ -138,6 +133,11 @@ googleAnalytics = ""
       image = "housepricing.png"
       url = ""
 
+      [[params.tiles.showcase]]
+      title = "Advanced Chatbot Development"      
+      subtitle = "Automating Conversations with NLP and Machine Learning"
+      image = "chatbot.png"
+      url = ""
 
 [params.header]
   [[params.header.social]]
