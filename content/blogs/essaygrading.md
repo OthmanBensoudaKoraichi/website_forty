@@ -13,6 +13,7 @@ draft: false
 
 # **Description**
 
+In this project, I explored the use of advanced transformer models, such as RoBERTa, ELECTRA, and ALBERT, to develop an automated essay grading system. I experimented with various models and ensemble techniques to enhance grading accuracy. I also tested GPT-3 for its unique prompting capabilities, though it underperformed compared to the other models. Ultimately, my approach demonstrated that RoBERTa consistently outperforms other models in terms of grading accuracy, and ensemble techniques offer further improvements. This work has the potential to streamline the essay grading process by providing reliable and scalable automated solutions.
 
 # **Scientific paper**
 

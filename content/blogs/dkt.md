@@ -13,6 +13,7 @@ draft: false
 
 # **Description**
 
+In this project, I explored how additional variables can improve the accuracy of Deep Knowledge Tracing (DKT) in predicting student performance. I compared DKT with the traditional Bayesian Knowledge Tracing (BKT) on a dataset of adult learners from the Workera platform. By incorporating variables like time to answer, skill, and sub-skill, I demonstrated that these additions significantly enhance the performance of DKT. This research provides valuable insights for intelligent tutoring systems, enabling better prediction of student outcomes and more tailored educational experiences.
 
 # **Scientific paper**
 

@@ -13,6 +13,8 @@ draft: false
 
 # **Description**
 
+In this project, I designed an optimization model to manage cash transfers across multiple bank agencies using linear programming. My goal was to minimize costs related to cash supply, collection, shipping, and fixed expenses while ensuring that each agency maintained a closing balance within predefined limits. I implemented the model using Gurobi and optimized it for three bank branches. This model effectively reduces the operational costs of cash management, making it a valuable tool for financial institutions seeking to optimize their logistics and cash flow.
+
 
 # **Scientific paper**
 

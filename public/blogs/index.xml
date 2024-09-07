@@ -13,70 +13,70 @@
       <link>http://localhost:1313/blogs/oilx/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       <guid>http://localhost:1313/blogs/oilx/</guid>
-      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;project-report&#34;&gt;&lt;strong&gt;Project report&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/london_lab/oilx.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/report.jpeg&#34; alt=&#34;Report Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/london_lab&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I developed an algorithm for OilX that monitors refinery events worldwide by gathering and analyzing real-time data from Twitter and Thomson Reuters. The solution involved scraping data, identifying and matching refinery locations, and clustering similar events. My model was trained on over 35,000 headlines and 7,000 Tweets, achieving 77.5% accuracy in identifying refinery events. The system provides traders and analysts with timely information to make data-driven decisions in the oil market. Future improvements could include sentiment analysis, tense detection, and refinery capacity predictions to enhance the tool&amp;rsquo;s accuracy and relevance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predicting Asset Ownership in Africa Using Satellite Imagery</title>
       <link>http://localhost:1313/blogs/assetownership/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       <guid>http://localhost:1313/blogs/assetownership/</guid>
-      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poster-presentation&#34;&gt;&lt;strong&gt;Poster presentation&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/CS229/CS229_Poster.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/poster.png&#34; alt=&#34;Poster Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/asset_ownership&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I utilized Landsat-8 satellite imagery and demographic data from the Demographic and Health Surveys (DHS) to predict asset ownership levels across Africa. I trained a ResNet-18 model, leveraging transfer learning to adapt the architecture for a regression task. My model outperformed traditional linear regression models, though it showed signs of overfitting. Despite this, the predictions provided valuable insights into regional asset ownership patterns. This project highlights the potential of combining satellite imagery and machine learning to understand socioeconomic conditions in developing regions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lifestyle</title>
-      <link>http://localhost:1313/blogs/blogs/</link>
-      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/blogs/</guid>
-      <description>&lt;p&gt;My blogs about technology and lifestyle.&lt;/p&gt;</description>
+      <title>AgeCap: Instant Health Insurance Quote Generator</title>
+      <link>http://localhost:1313/blogs/agecap/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/agecap/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I developed a bot for my family business Agecap, the first online health insurance quote generator in Morocco, using Streamlit. This app features an advanced chatbot powered by Retrieval-Augmented Generation (RAG), which efficiently connects to a client database and a database of quotes. Users can easily receive automated, personalized quotes, while the chatbot enhances the user experience with real-time responses. I also led the entire marketing strategy, including Facebook ads, designing the campaigns and communication. These efforts resulted in a 30x increase in leads and reduced the cost per lead by 10 times compared to the market average in Morocco.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tempus</title>
-      <link>http://localhost:1313/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tempus</title>
-      <link>http://localhost:1313/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tempus</title>
-      <link>http://localhost:1313/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tempus</title>
-      <link>http://localhost:1313/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magna</title>
-      <link>http://localhost:1313/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      <guid>http://localhost:1313/blogs/magna/</guid>
-      <description></description>
+      <title>Automated Essay Grading Using Transformer Models</title>
+      <link>http://localhost:1313/blogs/dkt/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/dkt/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I explored how additional variables can improve the accuracy of Deep Knowledge Tracing (DKT) in predicting student performance. I compared DKT with the traditional Bayesian Knowledge Tracing (BKT) on a dataset of adult learners from the Workera platform. By incorporating variables like time to answer, skill, and sub-skill, I demonstrated that these additions significantly enhance the performance of DKT. This research provides valuable insights for intelligent tutoring systems, enabling better prediction of student outcomes and more tailored educational experiences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Automated Essay Grading Using Transformer Models</title>
       <link>http://localhost:1313/blogs/essaygrading/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       <guid>http://localhost:1313/blogs/essaygrading/</guid>
-      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;scientific-paper&#34;&gt;&lt;strong&gt;Scientific paper&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../projects/CS224U/CS224u_final_papers__Elenoth_.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/paper.png&#34; alt=&#34;Paper Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I explored the use of advanced transformer models, such as RoBERTa, ELECTRA, and ALBERT, to develop an automated essay grading system. I experimented with various models and ensemble techniques to enhance grading accuracy. I also tested GPT-3 for its unique prompting capabilities, though it underperformed compared to the other models. Ultimately, my approach demonstrated that RoBERTa consistently outperforms other models in terms of grading accuracy, and ensemble techniques offer further improvements. This work has the potential to streamline the essay grading process by providing reliable and scalable automated solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automating Conversations with NLP and Machine Learning</title>
+      <link>http://localhost:1313/blogs/chatbot/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/chatbot/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I developed a chatbot that recommends movies based on user preferences, using collaborative filtering and sentiment analysis. The chatbot processes user inputs, extracting movie titles and determining the sentiment associated with the movies mentioned. By analyzing the user&amp;rsquo;s feedback on several films, the chatbot provides personalized recommendations using a binarized matrix of movie ratings. I also implemented creative features, such as handling misspelled movie titles and offering a creative mode for a more engaging interaction. This project showcases how natural language processing and machine learning can enhance user experiences in movie recommendations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>London House Price Estimation Engine : Optimizing Investment Decisions with Machine Learning</title>
+      <link>http://localhost:1313/blogs/housepricing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/housepricing/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I developed a machine learning model to predict house prices in the London market. I used a combination of linear regression, LASSO, random forests, and gradient boosting techniques to create an accurate estimation engine. By analyzing key variables such as property type, floor area, and distance to public transport, I aimed to guide investment decisions for purchasing properties. The final model was used to select 200 investment-worthy properties from a dataset of around 2,000, optimizing for potential profit margins. This project demonstrates how machine learning can be applied to real estate investment decisions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opticash: Optimized Cash Transfer with Linear Programming</title>
+      <link>http://localhost:1313/blogs/opticash/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/opticash/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I designed an optimization model to manage cash transfers across multiple bank agencies using linear programming. My goal was to minimize costs related to cash supply, collection, shipping, and fixed expenses while ensuring that each agency maintained a closing balance within predefined limits. I implemented the model using Gurobi and optimized it for three bank branches. This model effectively reduces the operational costs of cash management, making it a valuable tool for financial institutions seeking to optimize their logistics and cash flow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rescuing At-Risk Students in Morocco : Dropout Early Warning System with Machine Learning</title>
       <link>http://localhost:1313/blogs/dropout/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       <guid>http://localhost:1313/blogs/dropout/</guid>
-      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poster-presentation-video&#34;&gt;&lt;strong&gt;Poster presentation video&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1Hc_LG9Klt4&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/1Hc_LG9Klt4/0.jpg&#34; alt=&#34;YouTube Video&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;github-repo&#34;&gt;&lt;strong&gt;Github Repo&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/OthmanBensoudaKoraichi/website_forty&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/blogs/github.png&#34; alt=&#34;GitHub Image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I developed a machine learning model to predict student dropouts in Morocco’s middle and high schools. By analyzing data from over 336,000 students in the Fes-Meknes region (2015-2019), I identified key indicators such as unauthorized absences, GPA, and class rank that significantly predict dropout risk. The model I built correctly identified 84% of potential dropouts, helping educators intervene early. This work contributes to reducing dropout rates and promoting academic success through data-driven decision-making in the Moroccan education system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spotify Analysis: Trends and Insights</title>
+      <link>http://localhost:1313/blogs/spotify/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      <guid>http://localhost:1313/blogs/spotify/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this project, I aimed to uncover what factors influence the popularity of a song on Spotify. Using data from Spotify&amp;rsquo;s API and a custom database hosted on BigQuery, I analyzed song attributes like valence, loudness, energy, and lyrics. I trained machine learning models to predict track popularity based on these attributes and found that factors like loudness and explicitness significantly correlate with popularity. This project showcases the use of data analysis and machine learning to provide insights into the music industry and how certain attributes drive song success.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
