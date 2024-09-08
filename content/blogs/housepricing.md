@@ -21,7 +21,7 @@ In this project, I developed a machine learning model to predict house prices in
 
 # **Dashboard presentation video**
 
-[![YouTube Video](https://img.youtube.com/vi/1Hc_LG9Klt4/0.jpg)](https://www.youtube.com/watch?v=YInQJtjubiI&t=71s)
+[![YouTube Video](https://img.youtube.com/vi/YInQJtjubiI/0.jpg)](https://www.youtube.com/watch?v=YInQJtjubiI)
 
 
 # **Github Repo**

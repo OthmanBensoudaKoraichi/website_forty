@@ -21,7 +21,7 @@ In this project, I explored how additional variables can improve the accuracy of
 
 # **Paper presentation video**
 
-[![YouTube Video](https://img.youtube.com/vi/1Hc_LG9Klt4/0.jpg)](https://www.youtube.com/watch?v=Pzosou5_HBE)
+[![YouTube Video](https://img.youtube.com/vi/Pzosou5_HBE/0.jpg)](https://www.youtube.com/watch?v=Pzosou5_HBE)
 
 # **Github Repo**
 
