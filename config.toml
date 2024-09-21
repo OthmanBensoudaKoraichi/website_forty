@@ -20,7 +20,7 @@ googleAnalytics = ""
 
   # Provide your metadata here.
   name = "Your name"
-  description = "Your description"
+  description = "Othman Bensouda's Portfolio"
 
   # Link custom assets relative to /static
   custom_css = []
